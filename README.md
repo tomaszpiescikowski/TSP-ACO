@@ -10,6 +10,9 @@ Podczas uruchamiania, należy upewnić się, że instancja ".txt" jest w tym sam
 W pliku greedy.cpp znajduje się algorytm zachłanny do tego samego problemu.
 Polecana kompilacja kompilatorem MinGW.
 
+
+
+
 [ENG]
 Solving the traveling traveling salesman problem with the metaheuristics of an ant colony. The program finds the near optimal value and presents charts appropriate for the instance.
 
